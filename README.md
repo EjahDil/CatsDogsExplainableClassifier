@@ -17,19 +17,6 @@ Beyond classification, it integrates **explainable AI (XAI)** techniques to prov
 
 ---
 
-## 📊 Training Performance
-- The model converges quickly with stable loss and accuracy.  
-- Validation metrics remain strong, showing **good generalization**.
-
-| Metric              | Observation |
-|----------------------|-------------|
-| Training Loss        | Decreases smoothly |
-| Validation Loss      | Lower than training loss, no overfitting |
-| Training Accuracy    | ~94–95% |
-| Validation Accuracy  | ~96–97% |
-
----
-
 ## 🔍 Explainability Results
 
 ### 1. **Occlusion Sensitivity**
