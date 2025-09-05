@@ -39,6 +39,6 @@ Pixel-level attribution highlights semantically meaningful features.
 
 **Clone this repository**
    ```bash
-   git clone https://github.com/<your-username>/CatsDogsExplainableClassifier.git
+   git clone https://github.com/EjahDil/CatsDogsExplainableClassifier.git
    cd CatsDogsExplainableClassifier
    ```
