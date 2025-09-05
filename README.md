@@ -46,5 +46,12 @@ Heatmaps show where the model “looks” when predicting.
 Pixel-level attribution highlights semantically meaningful features.  
 - Cat → face and body outline  
 - Dog → head and torso  
-
 ---
+
+## 🚀 How to Run
+
+**Clone this repository**
+   ```bash
+   git clone https://github.com/<your-username>/CatsDogsExplainableClassifier.git
+   cd CatsDogsExplainableClassifier
+   ```
