@@ -10,7 +10,7 @@ Beyond classification, it integrates **explainable AI (XAI)** techniques to prov
 - **Model**: [EfficientNet-B0](https://arxiv.org/abs/1905.11946), trained from scratch  
 - **Explainability Methods**:
   - **Occlusion Sensitivity**
-  - **Grad-CAM & Grad-CAM++**
+  - **Grad-CAM**
   - **Integrated Gradients**
 - **Dataset**: [Kaggle Cats and Dogs Dataset](https://www.microsoft.com/en-us/download/details.aspx?id=54765)  
   Released under the *Microsoft Research Data License Agreement*.
