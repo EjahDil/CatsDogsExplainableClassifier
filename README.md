@@ -35,7 +35,7 @@ Pixel-level attribution highlights semantically meaningful features.
 - Dog → head and torso  
 ---
 
-## 🚀 How to Run
+## 🚀 Run Project on your local computer
 
 **Clone this repository**
    ```bash
