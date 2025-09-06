@@ -24,7 +24,7 @@ Highlights important image patches by systematically covering regions and measur
 - Cats: Face and body outline most important  
 - Dogs: Head, snout, and ears dominate importance  
 
-### 2. **Grad-CAM / Grad-CAM++**
+### 2. **Grad-CAM**
 Heatmaps show where the model “looks” when predicting.  
 - Cat → eyes, ears, and face  
 - Dog → snout and head  
